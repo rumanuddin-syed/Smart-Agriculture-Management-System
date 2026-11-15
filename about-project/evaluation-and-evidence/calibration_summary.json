@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "scope": "field",
+  "n_rows": 2608,
+  "temperatures": {
+    "crop_effb3": 0.9618402123451233,
+    "health_effb3": 0.891619086265564,
+    "disease_convnext_tiny": 1.5363705158233643,
+    "disease_effb3": 1.3477468490600586
+  },
+  "thresholds": {
+    "crop_conf": 0.7997279763221741,
+    "health_conf": 0.7364235520362854,
+    "disease_conf": 0.8189783692359924,
+    "ood_similarity": 0.5782954424619675,
+    "ood_topk": 10,
+    "neighbor_crop_agreement": 0.5,
+    "neighbor_label_agreement": 0.2
+  },
+  "quality": {
+    "blur_min": 62.29166354693621,
+    "brightness_min": 30,
+    "brightness_max": 248,
+    "min_side": 128,
+    "dark_frac_max": 0.8,
+    "bright_frac_max": 0.85
+  },
+  "metrics": {
+    "crop_effb3": {
+      "T": 0.9618,
+      "acc": 0.8148006134969326,
+      "nll_before": 0.8159991502761841,
+      "nll_after": 0.8139262795448303,
+      "ece_before": 0.0534408483711397,
+      "ece_after": 0.04005170204431,
+      "n": 2608,
+      "threshold": {
+        "threshold": 0.7997279763221741,
+        "coverage": 0.7994631901840491,
+        "selective_accuracy": 0.9002398081534773,
+        "target_met": true,
+        "n": 2608
+      },
+      "target_precision": 0.9
+    },
+    "health_effb3": {
+      "T": 0.8916,
+      "acc": 0.9394171779141104,
+      "nll_before": 0.18650326132774353,
+      "nll_after": 0.18408015370368958,
+      "ece_before": 0.03865903227424329,
+      "ece_after": 0.02381001853961156,
+      "n": 2608,
+      "threshold": {
+        "threshold": 0.7364235520362854,
+        "coverage": 0.9746932515337423,
+        "selective_accuracy": 0.9500393391030685,
+        "target_met": true,
+        "n": 2608
+      },
+      "target_precision": 0.95
+    },
+    "disease_convnext_tiny": {
+      "T": 1.5364,
+      "acc": 0.8543147208121827,
+      "nll_before": 0.5393937826156616,
+      "nll_after": 0.47632157802581787,
+      "ece_before": 0.08739834874111992,
+      "ece_after": 0.044426240110155266,
+      "n": 1970
+    },
+    "disease_effb3": {
+      "T": 1.3477,
+      "acc": 0.8543147208121827,
+      "nll_before": 0.4761312007904053,
+      "nll_after": 0.44805648922920227,
+      "ece_before": 0.06326882146336701,
+      "ece_after": 0.028885094840363206,
+      "n": 1970
+    },
+    "disease_ensemble": {
+      "acc": 0.8634517766497461,
+      "agree_rate": 0.8705583756345178,
+      "ece": 0.04088521856946995,
+      "threshold": {
+        "threshold": 0.8189783692359924,
+        "coverage": 0.6954314720812182,
+        "selective_accuracy": 0.9496350364963504,
+        "target_met": true,
+        "n": 1970
+      },
+      "target_precision": 0.95,
+      "n": 1970
+    },
+    "ood": {
+      "n_in": 2608,
+      "min_keep": 0.95,
+      "threshold": 0.5782954424619675,
+      "method": "in_distribution_quantile",
+      "auroc": null
+    }
+  }
+}

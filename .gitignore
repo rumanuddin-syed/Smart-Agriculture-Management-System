@@ -1,0 +1,79 @@
+# ==============================================================================
+# Git Ignore Configuration — Smart Agriculture Management System
+# ==============================================================================
+
+# Node.js Dependencies & Logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.eslintcache
+
+# Python Virtual Environments & Bytecode
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Environment Variables & Secrets (Keep .env.example intact)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+
+# Application File Uploads (Preserve directory structure via .gitkeep)
+server/uploads/*
+!server/uploads/.gitkeep
+!server/uploads/payments/
+server/uploads/payments/*
+!server/uploads/payments/.gitkeep
+!server/uploads/products/
+server/uploads/products/*
+!server/uploads/products/.gitkeep
+
+# Frontend Build Outputs
+client/dist/
+client/build/
+dist/
+build/
+
+# Operating System & IDE Clutter
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files, Logs & Backups
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+*.zip
+*.tar.gz
+*.rar
+
+# Large ML Model Weights (>100MB - Exceeds GitHub File Size Limit)
+# Instructions to download artifacts from Kaggle are documented in:
+# ml-services/plant-pipeline/artifacts/README.md
+ml-services/plant-pipeline/artifacts/*.pt
+ml-services/plant-pipeline/artifacts/*.faiss
+ml-services/plant-pipeline/artifacts/reference_meta.csv

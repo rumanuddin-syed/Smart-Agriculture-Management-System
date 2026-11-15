@@ -1,0 +1,698 @@
+{
+ "apple___apple_scab": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Olive-green to dark scabby spots on leaves and fruit, which can distort fruit and cause early leaf drop."
+ },
+ "apple___black_rot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown to black spots or rot on leaves, fruit or stems; on fruit the rot can turn them dark and shriveled."
+ },
+ "apple___cedar_apple_rust": {
+  "precautions": "Remove nearby juniper or cedar galls if practical, and plant resistant varieties. Remove infected leaves and debris.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Bright yellow-orange spots on leaves, sometimes with small tube-like structures underneath. The fungus needs nearby juniper or cedar to complete its cycle."
+ },
+ "apple___mosaic_virus": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Mottled light and dark green or yellow patches on leaves, sometimes with curling or stunted growth."
+ },
+ "apple___rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Small orange, yellow or rust-brown pustules, usually on the underside of leaves, which can yellow and drop early."
+ },
+ "apple___scab": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Olive-green to dark scabby spots on leaves and fruit, which can distort fruit and cause early leaf drop."
+ },
+ "banana___anthracnose": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark, sunken spots or lesions on leaves, stems or fruit, often worse in warm, wet weather."
+ },
+ "banana___black_leaf_streak": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark streaks on leaves that widen and merge, leading to early leaf death and reduced yield."
+ },
+ "banana___bunchy_top": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Plants are stunted with narrow, bunched leaves at the top and dark green streaks on stalks and veins. It is spread by aphids."
+ },
+ "banana___cigar_end_rot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dry, grey-black rot at the fruit tip that looks like cigar ash."
+ },
+ "banana___cordana_leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Oval brown spots with yellow edges on leaves, which can merge and dry out large areas."
+ },
+ "banana___panama_disease": {
+  "precautions": "Use resistant varieties and clean planting material, rotate crops, improve drainage, and avoid moving soil or tools from infected areas.",
+  "cure": "There is no effective cure once plants are infected. Remove infected plants and avoid replanting the same crop in that spot.",
+  "organic_remedy": "Remove infected plants. Rotation and good drainage help reduce spread.",
+  "characteristics": "Older leaves turn yellow and wilt, starting at the edges; cutting the base of the stem shows brown discoloration. It lives in the soil for many years."
+ },
+ "basil___downy_mildew": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Yellow or pale patches on the upper leaf surface with greyish or purplish fuzz underneath in humid conditions."
+ },
+ "bean___halo_blight": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Small water-soaked spots on leaves surrounded by a yellow halo, which can spread to pods."
+ },
+ "bean___mosaic_virus": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Mottled light and dark green or yellow patches on leaves, sometimes with curling or stunted growth."
+ },
+ "bean___rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Small orange, yellow or rust-brown pustules, usually on the underside of leaves, which can yellow and drop early."
+ },
+ "bell_pepper___bacterial_spot": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Small, dark, water-soaked spots on leaves, which can turn brown and drop out; fruit may show raised scabby spots."
+ },
+ "bell_pepper___blossom_end_rot": {
+  "characteristics": "A dark, sunken, leathery patch at the bottom (blossom end) of the fruit. It is a calcium-supply problem linked to uneven watering, not an infection.",
+  "precautions": "Water evenly and avoid swings between dry and wet soil. Mulch to hold moisture and avoid heavy nitrogen feeding.",
+  "cure": "Remove affected fruit. Correct watering first; consider a soil test before adding calcium.",
+  "organic_remedy": "Mulch and consistent watering. Add compost or other calcium sources only if a soil test shows a need."
+ },
+ "bell_pepper___frogeye_leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Round spots with grey centers and darker reddish-brown borders on leaves."
+ },
+ "bell_pepper___leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Round or irregular brown, tan or purple spots on leaves, which may merge and cause early leaf drop."
+ },
+ "bell_pepper___powdery_mildew": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "White to grey powdery coating on leaves and stems, which can cause curling, yellowing and reduced growth."
+ },
+ "blueberry___anthracnose": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark, sunken spots or lesions on leaves, stems or fruit, often worse in warm, wet weather."
+ },
+ "blueberry___botrytis_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Grey fuzzy mold on flowers, fruit or leaves, especially in cool, damp weather with poor airflow."
+ },
+ "blueberry___mummy_berry": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Infected berries shrivel, turn grey or tan and harden into 'mummies'; young shoots may wilt and turn brown."
+ },
+ "blueberry___rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Small orange, yellow or rust-brown pustules, usually on the underside of leaves, which can yellow and drop early."
+ },
+ "blueberry___scorch": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Reddish-purple or brown spots on leaves that merge until the leaf looks scorched. Leaf scorch is fungal in strawberry; in other crops the cause can differ (for example a virus in blueberry), so confirm locally."
+ },
+ "broccoli___alternaria_leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark brown spots, often with concentric rings, on leaves, which can merge and cause leaf drop."
+ },
+ "broccoli___downy_mildew": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Yellow or pale patches on the upper leaf surface with greyish or purplish fuzz underneath in humid conditions."
+ },
+ "cabbage___alternaria_leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark brown spots, often with concentric rings, on leaves, which can merge and cause leaf drop."
+ },
+ "cabbage___black_rot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown to black spots or rot on leaves, fruit or stems; on fruit the rot can turn them dark and shriveled."
+ },
+ "cabbage___downy_mildew": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Yellow or pale patches on the upper leaf surface with greyish or purplish fuzz underneath in humid conditions."
+ },
+ "carrot___alternaria_leaf_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark brown spots, often with concentric rings, on leaves, which can merge and cause leaf drop."
+ },
+ "carrot___cavity_spot": {
+  "precautions": "Improve drainage, avoid waterlogged fields, rotate crops, and avoid over-watering.",
+  "cure": "No reliable cure for affected roots. Improve drainage and follow a fungicide program only if advised locally.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Sunken oval lesions on roots, often linked to heavy, poorly drained soil."
+ },
+ "cauliflower___alternaria_leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark brown spots, often with concentric rings, on leaves, which can merge and cause leaf drop."
+ },
+ "cauliflower___bacterial_soft_rot": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Wet, soft, foul-smelling rot of heads or stems, which can spread quickly in warm, wet conditions."
+ },
+ "celery___anthracnose": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark, sunken spots or lesions on leaves, stems or fruit, often worse in warm, wet weather."
+ },
+ "celery___early_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark spots with concentric rings ('target spot') on older leaves first, which can yellow and drop."
+ },
+ "cherry___leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Round or irregular brown, tan or purple spots on leaves, which may merge and cause early leaf drop."
+ },
+ "cherry___powdery_mildew": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "White to grey powdery coating on leaves and stems, which can cause curling, yellowing and reduced growth."
+ },
+ "citrus___canker": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Raised, corky, brown lesions with a yellow halo on leaves, fruit and twigs. In many regions this is a regulated disease; report suspected cases to the plant protection authority."
+ },
+ "citrus___citrus_greening": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no cure. Infected trees should be removed as advised by local authorities, and the psyllid insect carrier controlled.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Yellow blotchy leaf patterns, lopsided small bitter fruit, and twig dieback. It is spread by the citrus psyllid and has no cure; report suspected cases to the plant protection authority."
+ },
+ "citrus___greening_disease": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no cure. Infected trees should be removed as advised by local authorities, and the psyllid insect carrier controlled.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Yellow blotchy leaf patterns, lopsided small bitter fruit, and twig dieback. It is spread by the citrus psyllid and has no cure; report suspected cases to the plant protection authority."
+ },
+ "coffee___berry_blotch": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark blotches or spots on berries and leaves, which may reduce fruit quality."
+ },
+ "coffee___leaf_rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Small orange, yellow or rust-brown pustules, usually on the underside of leaves, which can yellow and drop early."
+ },
+ "corn___common_rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Small orange, yellow or rust-brown pustules, usually on the underside of leaves, which can yellow and drop early."
+ },
+ "corn___gray_leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Rectangular grey to tan lesions running between the leaf veins, more common in warm, humid weather."
+ },
+ "corn___northern_leaf_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Long, cigar-shaped grey-green to tan lesions on leaves that can merge and kill leaf tissue."
+ },
+ "corn___rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Small orange, yellow or rust-brown pustules, usually on the underside of leaves, which can yellow and drop early."
+ },
+ "corn___smut": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Silvery-white galls that turn black and release dark powdery spores, usually on ears, tassels or stems."
+ },
+ "cucumber___angular_leaf_spot": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Water-soaked spots that become angular, limited by leaf veins, and may drop out leaving holes."
+ },
+ "cucumber___bacterial_wilt": {
+  "precautions": "Control cucumber beetles early, use resistant varieties, remove wilted plants, and rotate crops.",
+  "cure": "There is no effective cure once plants are infected. Remove infected plants and avoid replanting the same crop in that spot.",
+  "organic_remedy": "Remove infected plants. Rotation and good drainage help reduce spread.",
+  "characteristics": "Leaves wilt suddenly on one or more vines; a cut stem may ooze sticky threads. It is spread by cucumber beetles."
+ },
+ "cucumber___powdery_mildew": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "White to grey powdery coating on leaves and stems, which can cause curling, yellowing and reduced growth."
+ },
+ "eggplant___cercospora_leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Round grey-centered spots with darker borders on leaves, which can cause yellowing and leaf drop."
+ },
+ "eggplant___phomopsis_fruit_rot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Sunken, tan to brown spots on fruit that can spread to rot the whole fruit; leaves and stems may also show spots."
+ },
+ "eggplant___phytophthora_blight": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Dark, water-soaked patches on leaves, stems and fruit that spread quickly in wet weather and can rot the plant."
+ },
+ "garlic___leaf_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown to tan patches on leaves that spread and dry out leaf tissue, reducing yield."
+ },
+ "garlic___rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Small orange, yellow or rust-brown pustules, usually on the underside of leaves, which can yellow and drop early."
+ },
+ "ginger___leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Round or irregular brown, tan or purple spots on leaves, which may merge and cause early leaf drop."
+ },
+ "ginger___sheath_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Oval greenish-grey lesions on leaf sheaths near water or soil level that spread upward, especially in dense, humid crops."
+ },
+ "grape___black_rot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown to black spots or rot on leaves, fruit or stems; on fruit the rot can turn them dark and shriveled."
+ },
+ "grape___downy_mildew": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Yellow or pale patches on the upper leaf surface with greyish or purplish fuzz underneath in humid conditions."
+ },
+ "grape___esca": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "There is no cure. Prune out and remove affected wood in dry weather, protect pruning wounds, and seek local advice.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Leaves show yellow or brown 'tiger-stripe' patterns between veins and berries may spot or shrivel. It is a trunk disease with no curative treatment."
+ },
+ "grape___leaf_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown to tan patches on leaves that spread and dry out leaf tissue, reducing yield."
+ },
+ "grape___leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Round or irregular brown, tan or purple spots on leaves, which may merge and cause early leaf drop."
+ },
+ "grape___leafroll_disease": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Leaf edges roll downward and leaves turn reddish or yellow while the veins stay green, which can delay ripening and reduce yield."
+ },
+ "lettuce___downy_mildew": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Yellow or pale patches on the upper leaf surface with greyish or purplish fuzz underneath in humid conditions."
+ },
+ "lettuce___mosaic_virus": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Mottled light and dark green or yellow patches on leaves, sometimes with curling or stunted growth."
+ },
+ "maple___tar_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Raised, black, tar-like spots on leaves, often with yellow edges. It is mostly cosmetic on healthy trees."
+ },
+ "peach___bacterial_spot": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Small, dark, water-soaked spots on leaves, which can turn brown and drop out; fruit may show raised scabby spots."
+ },
+ "peach___brown_rot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown, rotting fruit covered in grey-tan spore tufts; blossoms and twigs can also turn brown and die."
+ },
+ "peach___leaf_curl": {
+  "precautions": "Collect and remove fallen leaves. Treatments are usually timed in the dormant season, so ask a local extension officer for timing.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Leaves thicken, pucker and curl with red, yellow or pink blistered areas in spring, then drop early."
+ },
+ "peach___scab": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Olive-green to dark scabby spots on leaves and fruit, which can distort fruit and cause early leaf drop."
+ },
+ "plum___brown_rot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown, rotting fruit covered in grey-tan spore tufts; blossoms and twigs can also turn brown and die."
+ },
+ "plum___pocket_disease": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Fruit becomes swollen, hollow and bladder-like ('pockets') with no stone, and young shoots may be distorted."
+ },
+ "plum___pox_virus": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Pale rings or blotches on leaves and marked fruit that may become deformed. In many countries this is a regulated disease; report suspected cases to the plant protection authority."
+ },
+ "plum___rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Small orange, yellow or rust-brown pustules, usually on the underside of leaves, which can yellow and drop early."
+ },
+ "potato___early_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark spots with concentric rings ('target spot') on older leaves first, which can yellow and drop."
+ },
+ "potato___late_blight": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Large, water-soaked, dark patches on leaves and stems, often with white fuzz underneath in humid weather. It can destroy a crop quickly."
+ },
+ "raspberry___fire_blight": {
+  "precautions": "Prune out infected shoots well below visible symptoms in dry weather, disinfect tools between cuts, and avoid heavy nitrogen feeding.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Shoots and blossoms turn dark and wilted, as if scorched by fire, with a curled 'shepherd's crook' tip."
+ },
+ "raspberry___gray_mold": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Grey fuzzy mold on flowers, fruit or leaves, especially in cool, damp weather with poor airflow."
+ },
+ "raspberry___yellow_rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Yellow to orange pustules on leaves, which can reduce growth and yield."
+ },
+ "rice___blast": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Diamond-shaped lesions with grey centers on leaves; the disease can also affect the neck of the panicle and reduce grain fill."
+ },
+ "rice___sheath_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Oval greenish-grey lesions on leaf sheaths near water or soil level that spread upward, especially in dense, humid crops."
+ },
+ "soybean___bacterial_blight": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Angular, water-soaked spots on leaves that turn brown with a yellow border and may tear."
+ },
+ "soybean___brown_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown, round to oval spots, often with a yellow halo, on leaves; can cause early leaf drop."
+ },
+ "soybean___downy_mildew": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Yellow or pale patches on the upper leaf surface with greyish or purplish fuzz underneath in humid conditions."
+ },
+ "soybean___frog_eye_leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Round spots with grey centers and darker reddish-brown borders on leaves."
+ },
+ "soybean___mosaic": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Mottled light and dark green or yellow patches on leaves, sometimes with curling or stunted growth."
+ },
+ "squash___powdery_mildew": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "White to grey powdery coating on leaves and stems, which can cause curling, yellowing and reduced growth."
+ },
+ "strawberry___anthracnose": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark, sunken spots or lesions on leaves, stems or fruit, often worse in warm, wet weather."
+ },
+ "strawberry___leaf_scorch": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Reddish-purple or brown spots on leaves that merge until the leaf looks scorched. Leaf scorch is fungal in strawberry; in other crops the cause can differ (for example a virus in blueberry), so confirm locally."
+ },
+ "tobacco___blue_mold": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Pale yellow patches on the upper leaf surface with grey-blue mold underneath in cool, humid weather. It can spread quickly."
+ },
+ "tobacco___brown_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown, round to oval spots, often with a yellow halo, on leaves; can cause early leaf drop."
+ },
+ "tobacco___mosaic_virus": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Mottled light and dark green or yellow patches on leaves, sometimes with curling or stunted growth."
+ },
+ "tomato___bacterial_leaf_spot": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Small, dark, water-soaked spots on leaves, which can turn brown and drop out; fruit may show raised scabby spots."
+ },
+ "tomato___bacterial_spot": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Small, dark, water-soaked spots on leaves, which can turn brown and drop out; fruit may show raised scabby spots."
+ },
+ "tomato___early_blight": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Dark spots with concentric rings ('target spot') on older leaves first, which can yellow and drop."
+ },
+ "tomato___late_blight": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Large, water-soaked, dark patches on leaves and stems, often with white fuzz underneath in humid weather. It can destroy a crop quickly."
+ },
+ "tomato___leaf_mold": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Pale yellow spots on the upper leaf surface with olive-green to grey mold underneath, mostly in humid, poorly ventilated conditions."
+ },
+ "tomato___mosaic_virus": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Mottled light and dark green or yellow patches on leaves, sometimes with curling or stunted growth."
+ },
+ "tomato___septoria_leaf_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Many small round spots with dark borders and grey centers, mostly on lower leaves, which then yellow and drop."
+ },
+ "tomato___spider_mites": {
+  "characteristics": "Tiny yellow or white speckling on leaves, fine webbing underneath, and leaves that bronze and dry out. It is caused by pests, not a pathogen, and worsens in hot, dry weather.",
+  "precautions": "Check the underside of leaves regularly, avoid dusty or water-stressed plants, and protect natural predators of mites.",
+  "cure": "Use a miticide registered for this crop in your region, following the label. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Spray plants with a strong stream of water, and use insecticidal soap or horticultural oil where registered, following the label."
+ },
+ "tomato___target_spot": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Brown spots with concentric rings and yellow edges on leaves, and sometimes on fruit."
+ },
+ "tomato___yellow_leaf_curl_virus": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Leaves curl upward and turn yellow, plants are stunted, and flowering or fruiting is reduced. It is spread by whiteflies."
+ },
+ "wheat___bacterial_leaf_streak_black_chaff": {
+  "precautions": "Use clean seed or plants, avoid working in the field when foliage is wet, disinfect tools, remove infected material, and rotate crops. Avoid overhead irrigation.",
+  "cure": "There is no reliable cure once plants are infected. Copper-based sprays registered for the crop may slow spread; follow the label and local advice.",
+  "organic_remedy": "Remove and destroy infected parts. Copper-based products may slow spread where registered for the crop.",
+  "characteristics": "Narrow, water-soaked streaks on leaves that turn brown, and dark streaks on the seed head covering (black chaff)."
+ },
+ "wheat___head_scab": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Bleached or pinkish spikelets in the grain head and shriveled grain. It can produce toxins, so affected grain should not be used for food or feed without testing."
+ },
+ "wheat___leaf_rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Small orange, yellow or rust-brown pustules, usually on the underside of leaves, which can yellow and drop early."
+ },
+ "wheat___loose_smut": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "No cure for infected plants. Use certified clean or treated seed in the next season.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Grain heads are replaced by black powdery spores, which spread to healthy plants at flowering. It is carried in seed."
+ },
+ "wheat___powdery_mildew": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "White to grey powdery coating on leaves and stems, which can cause curling, yellowing and reduced growth."
+ },
+ "wheat___septoria_blotch": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Tan to brown blotches on leaves with small dark dots inside, which can merge and dry out leaves."
+ },
+ "wheat___stem_rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Reddish-brown pustules on stems and leaf sheaths that can break through the surface and weaken the stem."
+ },
+ "wheat___stripe_rust": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "Yellow to orange pustules arranged in stripes along the leaves, more common in cool, moist weather."
+ },
+ "zucchini___bacterial_wilt": {
+  "precautions": "Control cucumber beetles early, use resistant varieties, remove wilted plants, and rotate crops.",
+  "cure": "There is no effective cure once plants are infected. Remove infected plants and avoid replanting the same crop in that spot.",
+  "organic_remedy": "Remove infected plants. Rotation and good drainage help reduce spread.",
+  "characteristics": "Leaves wilt suddenly on one or more vines; a cut stem may ooze sticky threads. It is spread by cucumber beetles."
+ },
+ "zucchini___downy_mildew": {
+  "precautions": "Avoid long leaf wetness: water at the base in the morning, improve drainage and airflow, and remove infected plants or debris. Cool, humid weather speeds the disease, so watch closely in such spells.",
+  "cure": "Use a fungicide registered for this disease and crop in your region, following the label and rotating products as advised. Act early, because it spreads fast in humid weather.",
+  "organic_remedy": "Remove infected leaves promptly. Copper-based products may reduce spread where registered for the crop; follow the label.",
+  "characteristics": "Yellow or pale patches on the upper leaf surface with greyish or purplish fuzz underneath in humid conditions."
+ },
+ "zucchini___powdery_mildew": {
+  "precautions": "Remove and destroy infected leaves and plant debris. Space plants for airflow, avoid overhead watering late in the day, and rotate crops where practical.",
+  "cure": "Apply a fungicide that is registered for this crop in your region, following the product label and local regulations. Ask a local extension officer which product suits your situation.",
+  "organic_remedy": "Remove infected parts early. Copper- or sulfur-based products or a biofungicide may help where registered for the crop; follow the label.",
+  "characteristics": "White to grey powdery coating on leaves and stems, which can cause curling, yellowing and reduced growth."
+ },
+ "zucchini___yellow_mosaic_virus": {
+  "precautions": "Use certified disease-free planting material and resistant varieties where available. Control insect carriers (such as aphids or whiteflies), remove weeds nearby, and disinfect tools and hands.",
+  "cure": "Virus infections cannot be cured. Remove and destroy infected plants to protect healthy ones, and manage the insects that spread it.",
+  "organic_remedy": "Remove infected plants early. Reflective mulch, insect netting or insecticidal soap may help reduce insect carriers.",
+  "characteristics": "Yellow mottling and mosaic patterns on leaves, with stunting and sometimes distorted fruit."
+ }
+}

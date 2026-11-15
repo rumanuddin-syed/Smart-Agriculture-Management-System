@@ -1,0 +1,61 @@
+[
+  {
+    "file": "crop_effb3.pt",
+    "arch": "effb3",
+    "epoch": 19,
+    "num_classes": "NOT MEASURED",
+    "img_size": "NOT MEASURED",
+    "metrics": {
+      "loss": 0.8378977916489169,
+      "acc": 0.9474026678234465,
+      "macro_f1": 0.8616193032075327
+    },
+    "size_mb": 43.52
+  },
+  {
+    "file": "health_effb3.pt",
+    "arch": "effb3",
+    "epoch": 14,
+    "num_classes": "NOT MEASURED",
+    "img_size": "NOT MEASURED",
+    "metrics": {
+      "loss": 0.23166596921977506,
+      "acc": 0.9827567508946969,
+      "macro_f1": 0.9812171301314634
+    },
+    "size_mb": 43.32
+  },
+  {
+    "file": "disease_effb3.pt",
+    "arch": "effb3",
+    "epoch": 15,
+    "num_classes": "NOT MEASURED",
+    "img_size": "NOT MEASURED",
+    "metrics": {
+      "loss": 1.1506749819635524,
+      "acc": 0.8998487649134599,
+      "macro_f1": 0.7650091706724469
+    },
+    "size_mb": 44.03
+  },
+  {
+    "file": "disease_convnext_tiny.pt",
+    "arch": "convnext_tiny",
+    "epoch": 21,
+    "num_classes": "NOT MEASURED",
+    "img_size": "NOT MEASURED",
+    "metrics": {
+      "loss": 1.1947000219008237,
+      "acc": 0.8917828936313225,
+      "macro_f1": 0.7209441725690288
+    },
+    "size_mb": 111.7
+  },
+  {
+    "FAISS": {
+      "ntotal": 42652,
+      "d": 768,
+      "type": "IndexFlatIP"
+    }
+  }
+]

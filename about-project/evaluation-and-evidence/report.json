@@ -1,0 +1,63 @@
+{
+ "PlantSeg": {
+  "n": 1090,
+  "rate_confident": 0.569,
+  "rate_uncertain": 0.333,
+  "rate_retake": 0.033,
+  "rate_rejected": 0.065,
+  "coverage": 0.571,
+  "selective_accuracy": 0.922,
+  "end_to_end_correct": 0.527,
+  "crop_accuracy": 0.85,
+  "false_accept_rate_unseen": 0.333,
+  "n_unseen": 12
+ },
+ "PlantVillage": {
+  "n": 4784,
+  "rate_confident": 0.929,
+  "rate_uncertain": 0.029,
+  "rate_retake": 0.038,
+  "rate_rejected": 0.005,
+  "coverage": 0.929,
+  "selective_accuracy": 0.999,
+  "end_to_end_correct": 0.928,
+  "crop_accuracy": 1.0
+ },
+ "PlantWild": {
+  "n": 1402,
+  "rate_confident": 0.446,
+  "rate_uncertain": 0.457,
+  "rate_retake": 0.04,
+  "rate_rejected": 0.057,
+  "coverage": 0.446,
+  "selective_accuracy": 0.864,
+  "end_to_end_correct": 0.385,
+  "crop_accuracy": 0.795
+ },
+ "ALL_REAL_WORLD": {
+  "n": 2492,
+  "rate_confident": 0.5,
+  "rate_uncertain": 0.403,
+  "rate_retake": 0.037,
+  "rate_rejected": 0.061,
+  "coverage": 0.5,
+  "selective_accuracy": 0.893,
+  "end_to_end_correct": 0.447,
+  "crop_accuracy": 0.819,
+  "false_accept_rate_unseen": 0.333,
+  "n_unseen": 12
+ },
+ "ALL": {
+  "n": 7276,
+  "rate_confident": 0.782,
+  "rate_uncertain": 0.157,
+  "rate_retake": 0.038,
+  "rate_rejected": 0.024,
+  "coverage": 0.783,
+  "selective_accuracy": 0.976,
+  "end_to_end_correct": 0.764,
+  "crop_accuracy": 0.939,
+  "false_accept_rate_unseen": 0.333,
+  "n_unseen": 12
+ }
+}

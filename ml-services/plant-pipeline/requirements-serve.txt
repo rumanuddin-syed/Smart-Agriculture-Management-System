@@ -1,0 +1,16 @@
+# Runtime dependencies for the plant-pipeline inference service.
+# Versions pinned from the working venv (2026-11-01).
+# Install torch/torchvision CPU wheels:
+#   pip install -r requirements-serve.txt --extra-index-url https://download.pytorch.org/whl/cpu
+
+fastapi==0.141.1
+uvicorn==0.54.0
+python-multipart==0.0.32
+torch==2.13.0+cpu
+torchvision==0.28.0+cpu
+timm==1.0.30
+faiss-cpu==1.15.1
+opencv-python-headless==5.0.0.93
+pandas==3.1.0
+numpy==2.5.2
+pillow==10.2.0

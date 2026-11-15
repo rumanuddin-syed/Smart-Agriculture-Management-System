@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-agri-light text-agri-dark antialiased;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-outfit font-semibold tracking-tight;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-4 py-2 bg-agri-emerald text-white rounded-lg font-medium shadow-sm hover:bg-agri-forest focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-agri-emerald transition-colors disabled:opacity-50;
+  }
+  
+  .btn-outline {
+    @apply inline-flex items-center justify-center px-4 py-2 border border-agri-emerald text-agri-emerald rounded-lg font-medium hover:bg-agri-emerald/10 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-agri-emerald transition-colors;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-emerald-100 overflow-hidden;
+  }
+  
+  .input-field {
+    @apply mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-agri-mint focus:ring focus:ring-agri-mint focus:ring-opacity-50 bg-white px-3 py-2 border;
+  }
+}
+
+/* Custom Scrollbar for better UI */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f0fdf4; 
+}
+::-webkit-scrollbar-thumb {
+  background: #10b981; 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #059669; 
+}

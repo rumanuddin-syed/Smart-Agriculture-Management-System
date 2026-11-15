@@ -1,0 +1,39 @@
+# Copy to configs/datasets.yaml and edit paths. Run a dry run first:
+#   python -m training.a_prepare_datasets --config configs/datasets.yaml --dry-run
+# -> lists every raw class name that still needs mapping in data/unmapped_labels.yaml
+aliases: configs/aliases.yaml
+
+datasets:
+  - name: PlantVillage            # lab images: great for volume, useless as your only test set
+    root: /data/PlantVillage      # root/<Crop___Disease>/*.jpg   (list several roots if pre-split)
+    layout: folder
+    field: false
+    label_map: auto               # parses 'Crop___Disease' folder names
+
+  - name: PlantDoc                # natural scenes
+    root: /data/PlantDoc/train
+    layout: folder
+    field: true
+    label_map: configs/label_maps/plantdoc.yaml
+
+  - name: PlantWild
+    root: /data/PlantWild/images
+    layout: folder
+    field: true
+    label_map: configs/label_maps/plantwild.yaml
+
+  - name: PlantSeg                # masks are NOT used as class labels; only image-level labels
+    layout: csv                   # if your copy has no per-image label table, reorganise to folder-per-class
+    root: /data/PlantSeg
+    csv: /data/PlantSeg/metadata.csv
+    path_col: image_path
+    label_col: disease
+    field: true
+    label_map: configs/label_maps/plantseg.yaml
+
+  - name: FieldPlant              # keep 100% out of training -> honest cross-dataset generalisation test
+    root: /data/FieldPlant
+    layout: folder
+    field: true
+    holdout: true
+    label_map: configs/label_maps/fieldplant.yaml

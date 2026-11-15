@@ -1,0 +1,18 @@
+# Merge naming differences between datasets BEFORE labels are made canonical.
+# keys/values are lower_snake_case (the script slugs raw names for you).
+crops:
+  corn_maize: corn
+  maize: corn
+  pepper_bell: bell_pepper
+  pepper: bell_pepper
+  cherry_including_sour: cherry
+  soyabean: soybean
+diseases:
+  cercospora_leaf_spot_gray_leaf_spot: gray_leaf_spot
+  esca_black_measles: esca
+  leaf_blight_isariopsis_leaf_spot: leaf_blight
+  haunglongbing_citrus_greening: citrus_greening
+  spider_mites_two_spotted_spider_mite: spider_mites
+  tomato_yellow_leaf_curl_virus: yellow_leaf_curl_virus
+  tomato_mosaic_virus: mosaic_virus
+  common_rust: common_rust

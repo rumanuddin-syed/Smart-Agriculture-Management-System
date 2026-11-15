@@ -1,0 +1,45 @@
+method,path,auth_role_middleware,request_fields,response_shape,controller_file_line
+GET,/,None,None,"{ message }",server/src/app.js:35
+POST,/api/auth/register,None,"{ name, email, password, phone, role, location }","{ message, token, user }",server/src/controllers/authController.js:20
+POST,/api/auth/login,None,"{ email, password }","{ message, token, user }",server/src/controllers/authController.js:65
+GET,/api/auth/me,authMiddleware,None (Header: Bearer token),"{ user }",server/src/controllers/authController.js:104
+PUT,/api/auth/profile,authMiddleware,"{ name, phone, location }","{ message, user }",server/src/controllers/authController.js:117
+POST,/api/crop-recommendation/recommend,optionalAuth,"{ N, P, K, temperature, humidity, ph, rainfall }","{ message, recommendedCrop, confidence, recordId, input }",server/src/controllers/cropController.js:5
+GET,/api/crop-recommendation/history,authMiddleware,None,"{ history: [CropRecommendation] }",server/src/controllers/cropController.js:59
+DELETE,/api/crop-recommendation/history/all,authMiddleware,None,"{ message }",server/src/controllers/cropController.js:82
+DELETE,/api/crop-recommendation/history/:id,authMiddleware,Param: id,"{ message }",server/src/controllers/cropController.js:69
+POST,/api/disease-detection/detect,"optionalAuth, upload.single('leafImage')",Multipart: leafImage,"{ message, status, stage, prediction, confidence, imageUrl, advisory, disease_info, quality, detection, crop, health, disease, ood, top_k, reasons, recordId }",server/src/controllers/diseaseController.js:17
+GET,/api/disease-detection/history,authMiddleware,None,"{ history: [DiseasePrediction] }",server/src/controllers/diseaseController.js:161
+GET,/api/disease-detection/history/:id,authMiddleware,Param: id,"{ record: DiseasePrediction }",server/src/controllers/diseaseController.js:178
+DELETE,/api/disease-detection/history/all,authMiddleware,None,"{ message }",server/src/controllers/diseaseController.js:204
+DELETE,/api/disease-detection/history/:id,authMiddleware,Param: id,"{ message }",server/src/controllers/diseaseController.js:191
+GET,/api/disease-detection/info,None,None,"{ count, diseases: [Disease] }",server/src/controllers/diseaseInfoController.js:4
+GET,/api/disease-detection/info/:className,None,Param: className,"{ disease: Disease }",server/src/controllers/diseaseInfoController.js:14
+GET,/api/nearby,optionalAuth,"Query: lat, lng, radius, type","{ location, services: [Service] }",server/src/controllers/nearbyController.js:4
+GET,/api/marketplace/products,None,"Query: search, category, isOrganic, sortBy, page, limit","{ products, total, page, pages }",server/src/controllers/marketplaceController.js:6
+GET,/api/marketplace/products/:id,None,Param: id,"{ product }",server/src/controllers/marketplaceController.js:107
+GET,/api/marketplace/farmers,None,None,"{ farmers }",server/src/controllers/marketplaceController.js:143
+GET,/api/marketplace/farmers/:farmerId,None,Param: farmerId,"{ profile, products }",server/src/controllers/farmerProfileController.js:87
+GET,/api/marketplace/farmer/profile,"authMiddleware, requireRole('farmer')",None,"{ profile }",server/src/controllers/farmerProfileController.js:5
+PUT,/api/marketplace/farmer/profile,"authMiddleware, requireRole('farmer'), uploadProductImage.single('profileImage')","Multipart: farmName, farmDescription, village, district, state, pincode, contactPhone, cropsCultivated, farmingMethod, deliveryAreas, pickupAvailable, deliveryAvailable, profileImage","{ message, profile }",server/src/controllers/farmerProfileController.js:30
+GET,/api/marketplace/farmer/products,"authMiddleware, requireRole('farmer')",None,"{ products }",server/src/controllers/productController.js:132
+POST,/api/marketplace/farmer/products,"authMiddleware, requireRole('farmer'), uploadProductImage.array('images', 5)","Multipart: name, category, description, pricePerUnit, unit, stock, minOrderQty, maxOrderQty, isOrganic, farmingMethod, harvestDate, freshnessDuration, village, district, state, pincode, pickup, localDelivery, images","{ message, product }",server/src/controllers/productController.js:5
+PUT,/api/marketplace/farmer/products/:id,"authMiddleware, requireRole('farmer'), uploadProductImage.array('images', 5)","Param: id, Multipart: name, category, pricePerUnit, stock, ...","{ message, product }",server/src/controllers/productController.js:73
+DELETE,/api/marketplace/farmer/products/:id,"authMiddleware, requireRole('farmer')",Param: id,"{ message }",server/src/controllers/productController.js:153
+PATCH,/api/marketplace/farmer/products/:id/toggle,"authMiddleware, requireRole('farmer')",Param: id,"{ message, product }",server/src/controllers/productController.js:168
+POST,/api/marketplace/checkout,authMiddleware,"{ items: [{productId, quantity}], deliveryAddress: {fullName, phone, street, city, district, state, pincode}, deliveryMethod }","{ message, checkoutId, orderNumber, grandTotal, subordersCount }",server/src/controllers/orderController.js:8
+GET,/api/marketplace/consumer/orders,authMiddleware,None,"{ orders: [CheckoutOrder] }",server/src/controllers/orderController.js:175
+GET,/api/marketplace/consumer/orders/:orderId,authMiddleware,Param: orderId,"{ checkout: CheckoutOrder }",server/src/controllers/orderController.js:195
+POST,/api/marketplace/consumer/suborders/:suborderId/cancel,authMiddleware,"Param: suborderId, Body: { reason }","{ message, suborder }",server/src/controllers/orderController.js:236
+POST,/api/marketplace/payment/upload-proof,"authMiddleware, uploadPaymentProof.single('paymentScreenshot')","Multipart: suborderId, paymentReference, paymentMethod, paymentScreenshot","{ message, proof, suborder }",server/src/controllers/paymentAndFulfilmentController.js:7
+POST,/api/marketplace/farmer/payment/review/:proofId,"authMiddleware, requireRole('farmer')","Param: proofId, Body: { decision: 'APPROVE'|'REJECT', reviewNote }","{ message, proof, suborder }",server/src/controllers/paymentAndFulfilmentController.js:70
+GET,/api/marketplace/farmer/suborders,"authMiddleware, requireRole('farmer')","Query: status, paymentStatus, page, limit","{ suborders, total, page, pages }",server/src/controllers/paymentAndFulfilmentController.js:225
+PATCH,/api/marketplace/farmer/suborders/:suborderId/status,"authMiddleware, requireRole('farmer')","Param: suborderId, Body: { status, note }","{ message, suborder }",server/src/controllers/paymentAndFulfilmentController.js:152
+GET,/api/marketplace/farmer/expenses,"authMiddleware, requireRole('farmer')","Query: category, startDate, endDate","{ expenses }",server/src/controllers/analyticsAndExpenseController.js:34
+POST,/api/marketplace/farmer/expenses,"authMiddleware, requireRole('farmer'), uploadProductImage.single('receipt')","Multipart: category, amount, date, cropName, description, receipt","{ message, expense }",server/src/controllers/analyticsAndExpenseController.js:6
+DELETE,/api/marketplace/farmer/expenses/:id,"authMiddleware, requireRole('farmer')",Param: id,"{ message }",server/src/controllers/analyticsAndExpenseController.js:69
+GET,/api/marketplace/farmer/analytics,"authMiddleware, requireRole('farmer')",None,"{ overview, financials, ordersByStatus, topSellingProducts, expensesByCategory }",server/src/controllers/analyticsAndExpenseController.js:84
+GET,/api/marketplace/notifications,authMiddleware,None,"{ notifications, unreadCount }",server/src/controllers/notificationController.js:4
+PATCH,/api/marketplace/notifications/:id/read,authMiddleware,Param: id,"{ message, notification }",server/src/controllers/notificationController.js:20
+PATCH,/api/marketplace/notifications/read-all,authMiddleware,None,"{ message }",server/src/controllers/notificationController.js:31
+

@@ -1,0 +1,5 @@
+{
+ "embedder": "disease_convnext_tiny",
+ "dim": 768,
+ "n_reference": 42652
+}

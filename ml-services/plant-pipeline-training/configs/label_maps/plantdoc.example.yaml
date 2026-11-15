@@ -1,0 +1,8 @@
+# ILLUSTRATIVE ONLY - verify every key against the folder names in YOUR copy of the dataset.
+# Format:  "<raw class name>": {crop: <crop>, disease: <disease | healthy>}   or   skip
+"Tomato Early blight leaf": {crop: tomato, disease: early_blight}
+"Tomato leaf late blight": {crop: tomato, disease: late_blight}
+"Tomato leaf":             {crop: tomato, disease: healthy}
+"Potato leaf early blight": {crop: potato, disease: early_blight}
+"Corn Gray leaf spot":     {crop: corn, disease: gray_leaf_spot}
+"Some class you don't want": skip
